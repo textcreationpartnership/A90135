@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem humbly addrest to the right honourable the Earl of Portland, &amp;c. on his lordships return from his embassy in France by Mr. Oldmixon.</title>
+            <author>Oldmixon, Mr. (John), 1673-1742.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90135</idno>
+            <idno type="STC">Wing O259</idno>
+            <idno type="STC">ESTC R42535</idno>
+            <idno type="EEBO-CITATION">36282260</idno>
+            <idno type="OCLC">ocm 36282260</idno>
+            <idno type="VID">150149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2233:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem humbly addrest to the right honourable the Earl of Portland, &amp;c. on his lordships return from his embassy in France by Mr. Oldmixon.</title>
+                  <author>Oldmixon, Mr. (John), 1673-1742.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Parker ... and Peter Buck ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688 [i.e. 1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portland, William Bentinck, --  Earl of, 1649-1709 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150149:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>A POEM Humbly Addreſt to the RIGHT HONOURABLE THE Earl of Portland, &amp;c.</p>
+            <p>On his Lordſhips Return from his Embaſſy in <hi>France.</hi>
+            </p>
+            <q>
+               <l>Mecoenas optimus, atque</l>
+               <l>Cocceius, miſſi magnis de rebus uter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Legari, averſos ſoliti componere amicos.</l>
+               <bibl>Hor<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Serm.</bibl>
+            </q>
+            <p>By Mr <hi>Oldmixon.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Parker,</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> under the Piazza of the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> and <hi>Peter Buck,</hi> at the Sign of the <hi>Temple,</hi> at the <hi>Middle-Temple-Gate</hi> in <hi>Fleetſtreet.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150149:2"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="1" facs="tcp:150149:2"/>
+            <!-- PDF PAGE 115 -->
+            <head>TO THE RIGHT HONOURABLE THE Earl of Portland, &amp;c.</head>
+            <head type="sub">On his Lordſhips Return from his Embaſſy in <hi>France.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <lg>
+               <l>
+                  <hi>MEcenas,</hi> Mighty in the Arts of Peace,</l>
+               <l>Brought Reſt to <hi>Rome,</hi> and you to <hi>Britain</hi> Eaſe.</l>
+               <l>Like his, your Counſels ſav'd the Nation's blood,</l>
+               <l>Like his, the Rivals of your Lord Subdu'd.</l>
+               <l>
+                  <pb n="2" facs="tcp:150149:3"/>
+                  <!-- PDF PAGE 116 -->
+Both made their foes accept the terms they ſcorn'd,</l>
+               <l>VVent forth for Peace, and Both with Peace return'd.</l>
+               <l>Thus Welcome to your Maſters arms you come,</l>
+               <l>Thus Welcome to his Realms, as he to <hi>Rome.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What man but you, who know the ſecret Springs</l>
+               <l>Of Princes Councels, and the hearts of Kings,</l>
+               <l>So ſoon could tame ſo turbulent a Mind,</l>
+               <l>And calm a Soul as Boiſtrous as the Wind?</l>
+               <l>Make <hi>Lewis,</hi> ſpite of his Ambition, yield,</l>
+               <l>And boaſting Victory, forſake the Field,</l>
+               <l>To court the Prince his Envy once abus'd,</l>
+               <l>And ſue for Peace, which he before refus'd.</l>
+               <l>You ſtopt his Glory in its full Career,</l>
+               <l>And made him dread the Proſpect of the War.</l>
+               <l>Your Maſters Conduct, and his Might declar'd,</l>
+               <l>Which <hi>France</hi> with Terror and Amazement heard.</l>
+               <l>She thought no more of Univerſal Sway,</l>
+               <l>Of making Empires yield, and Kings obey;</l>
+               <l>But trembling for the Countries ſhe poſſeſt,</l>
+               <l>She gladly gave up part, to ſave the reſt.</l>
+               <l>
+                  <pb n="3" facs="tcp:150149:3"/>
+                  <!-- PDF PAGE 116 -->
+This who Expected, that had heard her boaſt,</l>
+               <l>How much their freedom ſhould their Champions Coſt?</l>
+               <l>Yet all believ'd her Vaſt Compliance true,</l>
+               <l>Who knew the Treaty was referr'd to you.</l>
+               <l>With <hi>William</hi> you were taught th' Important arts,</l>
+               <l>To win the Mild, and quell the Proudſt hearts;</l>
+               <l>Bred in his Court, which Fame declar'd afar,</l>
+               <l>The Seat of Wiſdom, and the School of War</l>
+               <l>In whom but you could ev'ry State confide,</l>
+               <l>To teach <hi>France</hi> Juſtice, and correct her Pride</l>
+               <l>And whom but you, my Lord, could <hi>William</hi> truſt,</l>
+               <l>To make her pleas'd with thoſe that made her Juſt?</l>
+               <l>You, who before our Monarch fixt his Choice,</l>
+               <l>Had been diſtinguiſht by the Publick Voice,</l>
+               <l>To ſpread the Nations Glory, and declare,</l>
+               <l>VVe ſhine in Peace, as we prevail in War.</l>
+               <l>And when among our Rivals you appear'd,</l>
+               <l>They learn'd to love the people whom they fear'd.</l>
+               <l>The Pomp and Preſence of your Entry ſhew'd,</l>
+               <l>Such Hero's were not form'd to be ſubdu'd.</l>
+               <l>
+                  <pb n="4" facs="tcp:150149:4"/>
+                  <!-- PDF PAGE 117 -->
+VVith Rapture on the Glorious Train they gaz'd,</l>
+               <l>And ſcarce were more delighted than amaz'd.</l>
+               <l>So much they Joy to find their dangers ceaſe,</l>
+               <l>You ſeem'd to triumph where you carry'd Peace.</l>
+            </lg>
+            <lg>
+               <l>And now, methinks, your Chariot I behold,</l>
+               <l>Rich in bright Paintings, and the VVheels in Gold;</l>
+               <l>Eight <hi>Africk</hi> Steeds that draw the gay Machine,</l>
+               <l>VVith decent Pride reſiſt the Silver Rein.</l>
+               <l>In glitt'ring Chariots next your Friends advance,</l>
+               <l>Next <hi>England</hi>'s youth, and then the Pomp of <hi>France.</hi>
+               </l>
+               <l>The Heads of Councels, and the Chiefs of VVar,</l>
+               <l>Attend your coming, and its Luſtre ſhare.</l>
+               <l>They ſhew their utmoſt Gallantry in vain,</l>
+               <l>And look but mean behind ſo fine a Train;</l>
+               <l>For thoſe whoſe Honor made 'em Servants there,</l>
+               <l>Like Maſters of the Camp and State appear;</l>
+               <l>Mounted on Steeds that neigh againſt the bit,</l>
+               <l>And deckt with Orange Plumes, comtemn the <hi>Gal<g ref="char:EOLhyphen"/>lick</hi> white.</l>
+               <l>
+                  <pb n="5" facs="tcp:150149:4"/>
+                  <!-- PDF PAGE 117 -->
+Nor had our <hi>Britains</hi> quite forgot the days,</l>
+               <l>VVhich ancient Story ſpeaks with ſo much praiſe,</l>
+               <l>When thro the Streets of <hi>Gaul</hi> their Fathers rode,</l>
+               <l>And our fifth <hi>Harry</hi> led 'em like a God;</l>
+               <l>When Conqueſt waited on his Sword, and Death</l>
+               <l>Or Life depended on the Victor's breath;</l>
+               <l>When <hi>France</hi> of nothing but Obedience ſpoke,</l>
+               <l>And Swore Eternal homage to our Yoke.</l>
+               <l>This Mighty thought our blooming Hero's warm'd,</l>
+               <l>And their young Courage with bold Proſpects Charm'd.</l>
+               <l>This fir'd their Eyes, and made our Rivals fear</l>
+               <l>Another <hi>Harry</hi> might again come there.</l>
+               <l>But ſoon their vain and diſtant terrors ceaſe,</l>
+               <l>For thoſe they fear'd, were thoſe that brought 'em Peace.</l>
+               <l>Forgive the Muſes flight, ye Sons of War,</l>
+               <l>Whoſe Arms have ſtretcht the <hi>Gallick</hi> Empire far.</l>
+               <l>So much to our great Anceſtors is due,</l>
+               <l>Which we may Pay 'em without wronging you.</l>
+               <l>This little Tribute to their Shades allow,</l>
+               <l>They ſleep, alas! and cannot Conquer now.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:150149:5"/>
+               <!-- PDF PAGE 118 -->
+               <l>But ſee! The Grand Proceſſion moves along,</l>
+               <l>And ſtops th' Impetuous Sallies of my Song.</l>
+               <l>See <hi>France,</hi> Renown'd throughout the World for Shew,</l>
+               <l>Confeſſes ſhe's outdone in Splendor now.</l>
+               <l>See, how the Vulgar to their houſes cling,</l>
+               <l>Hark, how the ſtreets with <hi>Portland</hi>'s Welcom Ring.</l>
+               <l>Hark, from the Croud repeated ſhouts rebound,</l>
+               <l>The Steeds Inſtructed beat the trembling Ground,</l>
+               <l>And ev'ry heart grows Chearful at the ſound.</l>
+               <l>They bleſs the Monarch, whom they once blaſ<g ref="char:EOLhyphen"/>phem'd,</l>
+               <l>Their Late unjuſt and fatal rage Condemn'd.</l>
+               <l>Scarce their own <hi>Lewis</hi> now is more ador'd,</l>
+               <l>So well the Friend can repreſent his Lord.</l>
+               <l>Great thoughts of him by you, my Lord, they frame,</l>
+               <l>And on their rude Inſults reflect with ſhame:</l>
+               <l>Abus'd by thoſe who ſerv'd their cauſe with Lyes,</l>
+               <l>They ſee their malice, and our foes deſpiſe.</l>
+               <l>A Rout, which at your Preſence fled away,</l>
+               <l>As Fogs are ſcatter'd by the riſing Day.</l>
+               <l>
+                  <pb n="7" facs="tcp:150149:5"/>
+                  <!-- PDF PAGE 118 -->
+They murmur'd horrid Treaſon, and withdrew,</l>
+               <l>To holes and wilds, to curſe their Cauſe and you.</l>
+               <l>You, by whoſe Vigilance and Reſtleſs Toyl,</l>
+               <l>Our Sov'raign Reigns in Safety o're our Iſle.</l>
+               <l>His foes, that were too wicked to be friends,</l>
+               <l>Can only mutter like invet'rate Fiends.</l>
+               <l>Peſts of the world, from ev'ry Realm exil'd,</l>
+               <l>They live to want the Peace they would have ſpoil'd.</l>
+               <l>Like <hi>Jews</hi> to ev'ry Region they're a curſe,</l>
+               <l>But to themſelves, and him, they ſerve a worſe.</l>
+               <l>Here let my Muſe forbear theſe Sons of Night,</l>
+               <l>That ſerve like Shades to give her Picture Light.</l>
+            </lg>
+            <lg>
+               <l>For now my Fancy is I feel perplext,</l>
+               <l>To draw the ſhining Scene which follows next.</l>
+               <l>To paint you Led by Princes to <hi>Verſailles,</hi>
+               </l>
+               <l>There to ſecure our Friendſhip to the <hi>Gauls.</hi>
+               </l>
+               <l>And ſtrait before their Maſter you appear,</l>
+               <l>Who in Sublimeſt State expects you there.</l>
+               <l>His Sons, the Prop and Safety of his Crown,</l>
+               <l>With their young Queens, ſtand waiting round the Throne.</l>
+               <l>
+                  <pb n="8" facs="tcp:150149:6"/>
+                  <!-- PDF PAGE 119 -->
+A Croud of Demi-Gods on either hand,</l>
+               <l>All born to Rule, or deſtin'd to Command.</l>
+               <l>Their Beauties next in radiant Circles ſhine,</l>
+               <l>And but our own no forms are more divine.</l>
+               <l>High on his Seat, like <hi>Jove,</hi> the Monarch ſits,</l>
+               <l>Who only when <hi>Naſſau</hi> is nam'd ſubmits.</l>
+               <l>Then moving, with a dreadful grace deſcends,</l>
+               <l>To meet with Smiles the man that made 'em friends,</l>
+               <l>Swears from this hour the Nations Rage ſhall ceaſe,</l>
+               <l>And crys with <hi>William, Let the World have Peace.</hi>
+               </l>
+               <l>Since the bleſt World, at whoſe command the Light</l>
+               <l>Broke forth, and Nature loos'd the bonds of Night,</l>
+               <l>Since Peace and Pardon were proclaim'd from Heav'n,</l>
+               <l>No ſweeter voice was heard, nor bleſſing giv'n.</l>
+               <l>VVith Extaſie the Royal Audience hear</l>
+               <l>The Kings by you their plighted Friendſhip ſwear.</l>
+               <l>
+                  <hi>Naſſau</hi>'s the ſubject of their high diſcourſe;</l>
+               <l>His Juſtice, VViſdom, and his matchleſs Force,</l>
+               <l>Are all their talk, and ev'ry tongue diſplays</l>
+               <l>Its utmoſt Eloquence to ſpeak his praiſe.</l>
+               <l>
+                  <pb n="9" facs="tcp:150149:6"/>
+                  <!-- PDF PAGE 119 -->
+                  <hi>Lewis</hi> himſelf at length with pleaſure hears</l>
+               <l>Thoſe wonders told which he no longer fears.</l>
+            </lg>
+            <lg>
+               <l>This awful Scene of Majeſty gives way</l>
+               <l>To one, tho not as Stately, yet as Gay.</l>
+               <l>The Heirs of Empire next your Meſſage hear,</l>
+               <l>And in his Fav'rite our Great Lord revere.</l>
+               <l>Their beauteous Princeſſes your coming wait,</l>
+               <l>And wiſh your buſineſs had been more than ſtate.</l>
+               <l>Their Eyes betray how much their Hearts adore</l>
+               <l>Our Prince, and wiſh his Friendſhip ſomething more.</l>
+               <l>So ſoon Great actions will the Greateſt move,</l>
+               <l>And what begets their Wonder kindle Love.</l>
+            </lg>
+            <lg>
+               <l>This done, the Princes at prodigious coſt,</l>
+               <l>Strive who ſhall honour and divert you moſt.</l>
+               <l>But <hi>Conde</hi>'s and <hi>Chantilly</hi>'s Charms Invite,</l>
+               <l>To ſee the Muſes, and their Sons delight.</l>
+               <l>
+                  <hi>Conde,</hi> (who early had our Victor ſeen</l>
+               <l>Make his Sire yield, who ne're would yield till then)</l>
+               <l>
+                  <pb n="10" facs="tcp:150149:7"/>
+                  <!-- PDF PAGE 120 -->
+Learnt at <hi>Seneffe</hi> the Hero to eſteem,</l>
+               <l>And ſhews by you his vaſt reſpect for him.</l>
+            </lg>
+            <lg>
+               <l>In thoſe bleſt Paths by ancient <hi>Bourbons</hi> trod,</l>
+               <l>Thoſe Groves, the Temple of the Muſes God,</l>
+               <l>Which have ſo oft with <hi>Conde</hi>'s Triumphs rung,</l>
+               <l>By <hi>Sarazin</hi> and Gallant <hi>Voiture</hi> ſung.</l>
+               <l>Hadſt thou, O <hi>Prior,</hi> try'd thy tuneful Lays,</l>
+               <l>And ſung thy Maſter's, and his <hi>Portland</hi>'s Praiſe,</l>
+               <l>Thy Lyre as Sounding, and thy Voice as ſweet,</l>
+               <l>The Theme ſublimer, and thy Art as great,</l>
+               <l>The God had made their names to thine ſubmit,</l>
+               <l>And <hi>France</hi> been taught Subjection too in Wit.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
